@@ -732,7 +732,7 @@ main {
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
-  gap: 5px;
+  gap: 8px;
   margin: 0 -15px;
   padding: 20px;
   padding-bottom: 25px;
@@ -1475,7 +1475,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   /* skills */
 
   .skills-list {
-    gap: 3px;
+    gap: 8px;
     margin: 0 -20px;
     padding: 45px;
     scroll-padding-inline: 45px;
